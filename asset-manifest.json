@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Export-To-Excel/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-Export-To-Excel/static/js/main.0b22855f.chunk.js",
+    "main.js.map": "/React-Export-To-Excel/static/js/main.0b22855f.chunk.js.map",
+    "runtime-main.js": "/React-Export-To-Excel/static/js/runtime-main.aa74f32e.js",
+    "runtime-main.js.map": "/React-Export-To-Excel/static/js/runtime-main.aa74f32e.js.map",
+    "static/css/2.383c0125.chunk.css": "/React-Export-To-Excel/static/css/2.383c0125.chunk.css",
+    "static/js/2.d998f87a.chunk.js": "/React-Export-To-Excel/static/js/2.d998f87a.chunk.js",
+    "static/js/2.d998f87a.chunk.js.map": "/React-Export-To-Excel/static/js/2.d998f87a.chunk.js.map",
+    "static/js/3.01cdc021.chunk.js": "/React-Export-To-Excel/static/js/3.01cdc021.chunk.js",
+    "static/js/3.01cdc021.chunk.js.map": "/React-Export-To-Excel/static/js/3.01cdc021.chunk.js.map",
+    "index.html": "/React-Export-To-Excel/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/React-Export-To-Excel/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-Export-To-Excel/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d998f87a.chunk.js.LICENSE.txt": "/React-Export-To-Excel/static/js/2.d998f87a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa74f32e.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.d998f87a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0b22855f.chunk.js"
+  ]
+}
